@@ -1,7 +1,7 @@
 # Frontend landing page/ full front page website for a small color company
 
 This is a frontend-only website project. It's designed to be simple and efficient, without the need for a backend for now.
-This project demostrates the ability to use the tools below profieciently for the front end design of a modern color company.
+This project demonstrates the ability to use the tools below proficiently for the front end design of a modern color company.
 
 ## Built With
 
